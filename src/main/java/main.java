@@ -1,6 +1,6 @@
 
 
-public class Main {
+public class Main{
 
     public static void main(String[] args) {
 
@@ -18,7 +18,7 @@ public class Main {
         greet("Welcome to the project!");
     }
 
-    public static void greet(String message) {
+    public static void greet(String message){
         System.out.println(message);
     }
 }
